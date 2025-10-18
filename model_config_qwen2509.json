@@ -1,0 +1,24 @@
+{
+  "checkpoints": [],
+  "vae": [
+    "https://huggingface.co/Comfy-Org/Qwen-Image_ComfyUI/resolve/main/split_files/vae/qwen_image_vae.safetensors"
+  ],
+  "unet": [
+    "https://huggingface.co/QuantStack/Qwen-Image-Edit-2509-GGUF/resolve/main/Qwen-Image-Edit-2509-Q5_K_M.gguf"
+  ],
+  "diffusion_models": [],
+  "text_encoders": [
+    "https://huggingface.co/Comfy-Org/Qwen-Image_ComfyUI/resolve/main/split_files/text_encoders/qwen_2.5_vl_7b_fp8_scaled.safetensors"
+  ],
+  "loras": [
+    "https://huggingface.co/lightx2v/Qwen-Image-Lightning/resolve/main/Qwen-Image-Lightning-8steps-V2.0.safetensors"
+  ],
+  "upscale_models": [],
+  "controlnet": [],
+  "clip_vision": [],
+  "ipadapter": [],
+  "style_models": [],
+  "audio_encoders": [],
+  "wav2vec2": [],
+  "clip": []
+}
